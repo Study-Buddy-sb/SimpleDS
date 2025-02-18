@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDS", "SimpleDS.csproj", "{375F6BF1-A67F-73EC-2EBE-8E8125068D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{375F6BF1-A67F-73EC-2EBE-8E8125068D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375F6BF1-A67F-73EC-2EBE-8E8125068D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375F6BF1-A67F-73EC-2EBE-8E8125068D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375F6BF1-A67F-73EC-2EBE-8E8125068D10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F6A2612-52B1-4E38-9479-12D2130EF95A}
+	EndGlobalSection
+EndGlobal
